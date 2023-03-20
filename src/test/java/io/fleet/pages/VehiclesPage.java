@@ -22,7 +22,7 @@ public class VehiclesPage {
 
     WebDriver driver = Driver.getDriver();
 
-    WebDriverWait webDriverWait = new WebDriverWait( driver, 10 );
+    WebDriverWait webDriverWait = new WebDriverWait( driver, 10);
 
     // region Elements
     @FindBy(id = "prependedInput")
