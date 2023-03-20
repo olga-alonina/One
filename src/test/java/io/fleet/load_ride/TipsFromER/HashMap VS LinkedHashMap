@@ -1,0 +1,8 @@
+HashMap VS LinkedHashMap
+
+HashMap
+order random
+
+
+LinkedHashMap
+sorted by insertion (first in has first index)

@@ -1,0 +1,9 @@
+abstract class and non-abstract class
+abstract class 
+could not create object
+cannot be final
+
+
+ non-abstract class
+ could not use abstract method
+ 

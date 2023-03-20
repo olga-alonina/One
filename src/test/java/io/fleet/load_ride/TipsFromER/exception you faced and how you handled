@@ -1,0 +1,33 @@
+exception you faced and how you handled
+
+handled: 
+1) try and catch block inside block with throw in try block
+
+2) throw new exeprion   (creating exeption) (Ex driver class)
+
+3) throws in method signatare (handling exeption) 
+
+
+
+java exeption: checked and unchecked
+NullPointerException => reason : no object, no instance
+class cast exception=>no parent child relationship
+
+
+OutOfBoundsException
+ArithmeticException
+IllegalArgumentException
+
+selenuim inchecked
+
+noSuchElement 		 	wrong locator
+noSuchFrame 			invalid frame
+noSuchWindow 			invalid window
+staleElementExeption 	element not belong to the page
+webDriver Exeption
+
+api
+
+
+sql
+sqlexeption

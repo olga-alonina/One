@@ -1,0 +1,19 @@
+read file without library buffered reader, buffered writer
+
+FileReader file1 = new FileReader("kkk.txt")//path file
+
+BufferedReader read = new BufferedReader(file1);
+
+Scanner scan  = new Scanner(new FileReader("kkk.txt"));
+while(scan. nextLine()){
+	sout(scan.nextLine());
+}
+
+write:
+FileWriter file2 = new FileWriter("kkk.txt")//path file
+
+BufferedWriter write = new BufferedWriter(file2);
+
+writeer.write("Hello");
+
+writer.close();

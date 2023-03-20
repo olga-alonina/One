@@ -1,0 +1,10 @@
+HashMap and HashTable
+
+HashMap
+non sincronized
+accept null keyword
+
+
+ HashTable
+ sincronized
+ doesnot accept null keyword

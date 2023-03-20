@@ -1,0 +1,9 @@
+local variable VS instance variable
+
+local variable=> has to be in local curly braces
+
+
+
+ instance variable in one class but outside of local braces
+
+ if main method is static you should call variable by class name, with creating new object

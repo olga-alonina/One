@@ -1,0 +1,5 @@
+String builder/buffer
+String builder mutable version of String
+
+
+String buffer mutable version of String, sincronized, slower, 

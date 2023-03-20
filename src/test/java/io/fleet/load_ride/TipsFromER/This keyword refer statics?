@@ -1,0 +1,4 @@
+"this" keyword refer statics?
+
+
+inside static block or static method you could not use "this", only if it shared by the class.

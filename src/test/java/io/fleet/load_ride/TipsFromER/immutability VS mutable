@@ -1,0 +1,7 @@
+ immutability VS mutable
+
+ immutability => after creation could be changed, immutable class has to be final.keep clear info, faster, no duplicates in pool
+
+ mutable
+
+

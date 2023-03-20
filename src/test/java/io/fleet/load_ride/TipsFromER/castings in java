@@ -1,0 +1,18 @@
+castings in java
+
+primitive casting=>
+
+implicit casting:
+
+byte a = 2;
+int b=a;
+
+explicit casting: int a = 2;
+byte b=(byte)a;
+
+reference type casting=>
+upcating:
+Collection coll = new ArrayList();
+
+downcasting:
+List<Integer> list = (List<Integer>)collection;

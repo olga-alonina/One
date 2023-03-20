@@ -1,0 +1,18 @@
+Static VS Instance Variable/Block
+
+Static variable
+all objects has same value, call from anywhere
+
+
+
+Instance Variable 
+in one class you could have multiple objects
+
+
+
+block
+Static( only once not matter how many object we have)
+
+
+Instance (as much as amount of object)
+pagefactory.init

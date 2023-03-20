@@ -3,8 +3,6 @@ io/fleet/utilities/BrowserUtils$1.class
 io/fleet/step_definitions/TC07.class
 io/fleet/utilities/Exel_Util.class
 io/fleet/utilities/ConfigurationReader.class
-io/fleet/runner/FailedTestRunner.class
-io/fleet/step_definitions/Hooks.class
 io/fleet/pages/VehiclesPage.class
 io/fleet/utilities/BrowserUtils.class
 io/fleet/runner/CukesRunner.class

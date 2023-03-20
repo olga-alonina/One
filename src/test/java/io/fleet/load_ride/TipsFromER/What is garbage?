@@ -1,0 +1,4 @@
+What is garbage?
+objects, what never be used anymore, doesnot have any reference become part of Garbage collection.
+
+collect and destroy implicetly with finalaze method.

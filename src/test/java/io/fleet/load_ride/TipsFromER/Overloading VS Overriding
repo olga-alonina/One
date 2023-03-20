@@ -1,0 +1,13 @@
+Overloading VS Overriding
+
+Overriding 
+only 1 method,
+ different implementation,
+ has to be in the sub class,
+ access modifier same or more visible,
+ return type same ,
+final, private, static COULD NOT be override
+
+
+Overloading
+different arguments, same name, sub class and same class as well, parameters mb different

@@ -1,0 +1,10 @@
+Static, non-static methods
+
+static without creating new object, but also could be called throw new object
+
+non static have to create object
+
+java
+getter.
+selenium
+get properties

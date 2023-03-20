@@ -1,0 +1,7 @@
+iterator and for/for each loops
+iterator(alows do manipulating object, not value), it is interface and has relationship with iterable
+
+for each loop  - if you have data structure. 
+
+iterator could help remove objects.
+iterator, hasNext, next, remove=> methods for iterator

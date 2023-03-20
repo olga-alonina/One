@@ -1,0 +1,6 @@
+List, Queue and Set
+-accepting duplicates(List yes, Set no, Queue yes)
+-index number(List yes, Set no, Queue no)
+
+Queue has special order FIFO (First in First out)
+opposite of Queue is Stack LIFO (last in first out))subclass of List

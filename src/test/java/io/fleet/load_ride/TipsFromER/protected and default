@@ -1,0 +1,4 @@
+protected and default
+protected visible in same package, could be visible outside of package with inheritance
+
+default visible in same package, not visible outside of package

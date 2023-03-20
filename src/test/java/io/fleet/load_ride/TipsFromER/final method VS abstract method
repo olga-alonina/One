@@ -1,0 +1,11 @@
+final method VS abstract method
+
+final method=> cannot be overriden, could not change implementation, all methods could be final.
+exeption:
+Constractor 
+
+
+abstract method=> have to be overriden
+exeptions:
+static
+private

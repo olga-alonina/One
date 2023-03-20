@@ -1,0 +1,36 @@
+-------------------------------------------------------------------------------
+Test set: Checking placement buttons reset and greed settings
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.233 s <<< FAILURE! - in Checking placement buttons reset and greed settings
+Checking placement buttons reset and greed settings.Grid Settings should be on the right side of the Reset button  Time elapsed: 0.233 s  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: 
+The step 'User on the home page' and 4 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("User on the home page")
+public void user_on_the_home_page() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("I hover over to {string} module")
+public void i_hover_over_to_module(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("I click {string} option")
+public void i_click_option(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("I should see {string} page title")
+public void i_should_see_page_title(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("{string} button on the right side of {string}")
+public void button_on_the_right_side_of(String string, String string2) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+

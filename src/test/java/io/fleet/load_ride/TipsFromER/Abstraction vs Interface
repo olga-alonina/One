@@ -1,0 +1,5 @@
+Abstraction vs Interface
+abstraction
+class,constructor,instance variables,instance method,all access modifier,extend
+interface
+not class, no constructor, no instance variables, no instance method, multiple inheritance, public access modifier,implement

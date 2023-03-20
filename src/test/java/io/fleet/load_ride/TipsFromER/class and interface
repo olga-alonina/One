@@ -1,0 +1,21 @@
+class and interface
+
+class=>class is template of object.
+object
+constructor
+static and instance var
+super and abstract class couldn't be final
+if class is final it could not be inherited
+only inner class could be static
+
+interface
+from abstraction concept
+to achieve abstraction
+multi inheritance
+
+cannot create object
+no constructor
+not instance methods and intrface
+static var only, abstract and static, default only
+public access modifier only
+automatically final

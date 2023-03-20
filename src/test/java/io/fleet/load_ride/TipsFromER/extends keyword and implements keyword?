@@ -1,0 +1,4 @@
+extends keyword and implements keyword?
+=>extends keyword (abstract class)
+=>implements keyword (interface)
+=>class could have only 1 exteneded element, interface could have many

@@ -1,0 +1,21 @@
+example OOP in framework:
+
+driver
+pages
+pogo
+getter and setter
+extends pages
+
+inheritance => test base, mostly in API extends
+encapsulation=> private access modifier, pojo class, getter and setter
+polymorphism=> webdriver
+*abstraction(pages)
+*interface(webdriver take screenshot,java list executor, list and set)
+
+HashMap
+pair of data, json, pojo, configuration files
+
+Set, HashMap, List in your framework
+Set(uniq option from dropdown, handle tabs)
+hashMap( data from 2 column from tables, configuration file)
+list allow duplicate, has indexes
